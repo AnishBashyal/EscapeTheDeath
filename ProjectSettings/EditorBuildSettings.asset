@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Start.unity
+    guid: 74ed5e447d3d741449da0a282f1a03dc
+  - enabled: 1
+    path: Assets/Scene/Level_1.unity
+    guid: e57cb36ebb2f21942be2761e2fc098e5
+  - enabled: 1
+    path: Assets/Scene/Evolution1.unity
+    guid: 5844e98f24db4ec448810a763d5bb98a
+  - enabled: 1
+    path: Assets/Scene/Level_2.unity
+    guid: c31ebf74677b21347a9cd49cc3e5e08e
+  - enabled: 1
+    path: Assets/Scene/Evolution2.unity
+    guid: e111943ba4fd7bb49bc9139c106c62ef
+  - enabled: 1
+    path: Assets/Scene/Level_3.unity
+    guid: 9b96f7c604c94c746b5878a8276c0886
+  - enabled: 1
+    path: Assets/Scene/Evolution3.unity
+    guid: caf2d09ad14b2f8418ab4038fbe62ca7
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Score.unity
+    guid: 6515a87742361ba44838811cb17c4e27
+  - enabled: 1
+    path: Assets/Scene/Multplayer_Chase.unity
+    guid: a5a5b809bd44f4b4d965430c9fdc3651
+  m_configObjects: {}
