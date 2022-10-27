@@ -7,7 +7,7 @@ A platform game with 3 levels, playable on both PC and mobile. A Project exhibte
   
   Level 3 : Fight
 
-  + Endless Highscore Level
+  Bonus : Endless Highscore Level
   
 Made with C# and Unity Game Engine
 
