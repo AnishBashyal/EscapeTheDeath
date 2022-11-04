@@ -1,5 +1,5 @@
 # EscapeTheDeath
-A platform game with 3 levels, playable on both PC and mobile. A Project exhibted in school's Computer Expo.
+A platform game with 3 levels, playable on both PC and mobile. A Project exhibited in school's Computer Expo.
   
   Level 1 : Roll
   
